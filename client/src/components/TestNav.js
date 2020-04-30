@@ -106,7 +106,7 @@ const TestNav = (props) => {
       <div style={styles.mainNav}>
         <div style={styles.leftNavStyles}>
         <Link style={styles.link} to='/'>
-          <img style={styles.logo} src={"../DGBWhite.png"} />
+          <img style={styles.logo} src={"https://res.cloudinary.com/dvnkqa41b/image/upload/v1587603360/DGBWhite_kabsjc.png"} />
         </Link> 
         </div>
           { rightNavItems()}
