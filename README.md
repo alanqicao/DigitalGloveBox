@@ -33,7 +33,7 @@ end. For details on what libraries I used please check the gems file for Rails
 
 ### Some Additional Notes:
 
-  * This file is hosted and live at https://digital-glovebox.herokuapp.com/.
+  * This file is hosted and live at https://my-digital-glove-box.herokuapp.com/.
 
   * When you clone the repo, don't forget to run bundle in the parent
     application folder, and yarn in the client folder. 
