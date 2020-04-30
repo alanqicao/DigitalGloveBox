@@ -1,5 +1,5 @@
 # Digital Glove Box
-# https://my-digital-glove-box.herokuapp.com/
+* https://my-digital-glove-box.herokuapp.com/
 
 This ReadMe is here to summarize the Digital Glove Box app we've created for
 DevPoint Labs. The purpose of this application is to be a one stop shop for all
