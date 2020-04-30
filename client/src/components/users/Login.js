@@ -28,7 +28,7 @@ class Login extends React.Component {
         <UserContainer>
           <Form onSubmit={this.handleSubmit}>
             <h2 style={{"text-align": "center"}} >Welcome Back! Please Sign In.</h2>
-              
+            <h2 style={{"text-align": "center"}} >Test Account: test@test.com Password: password</h2>
               <FormInput 
                 label="Email*"
                 type="email" 
