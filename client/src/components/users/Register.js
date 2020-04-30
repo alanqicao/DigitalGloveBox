@@ -31,6 +31,7 @@ class Register extends React.Component {
       <div style={styles.container}>
         <UserContainer>
             <h2 style={{"text-align": "center"}} >Register, it'll just take a second!</h2>
+            <h2 style={{"text-align": "center"}} >Test Account: test@test.com Password: password</h2>
           <Form onSubmit={this.handleSubmit}>
           <FormInput
               label="First Name*"
